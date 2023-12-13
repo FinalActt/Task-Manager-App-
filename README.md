@@ -6,7 +6,7 @@
 ## Getting All node_modules :
 Use `npm i`to install the necessary dependencies
 
-### `npm start`
+## Use `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
