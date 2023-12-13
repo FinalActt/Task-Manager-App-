@@ -3,8 +3,8 @@
 #  🚀 This Project Was Made Using React.js 🚀
 # Launching The Project Steps
 
-## Getting All node_modules :
-Use `npm i`to install the necessary dependencies
+### Getting All node_modules :
+## Use `npm i`to install the necessary dependencies
 
 ## Use `npm start`
 Runs the app in the development mode.\
